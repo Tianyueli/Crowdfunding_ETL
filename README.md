@@ -7,20 +7,20 @@ The first step of extraction involved using python and Pandas to extract the dat
 
 This is the way that the database is set up in PostGres:
 
-![alt text](Resources/crowdfunding_db.png "crowdfunding database")
+![alt text](Starter_Files/Resources/images/crowdfunding_db.png "crowdfunding database")
 
 These are the resulting tables with a simple SELECT statement showing how the tables were structured and what they contain.
 
 Category Table:
-![alt text](Resources/category_img.png "category table")
+![alt text](Starter_Files/Resources/images/category_img.png "category table")
 
 Subcategory Table:
-![alt text](Resources/subcategory_img.png "subcategory table")
+![alt text](Starter_Files/Resources/images/subcategory_img.png "subcategory table")
 
 Contacts Table:
-![alt text](Resources/contacts_img.png "contacts table")
+![alt text](Starter_Files/Resources/images/contacts_img.png "contacts table")
 
 Campaign Table
-![alt text](Resources/campaign_img.png "campaign table")
+![alt text](Starter_Files/Resources/images/campaign_img.png "campaign table")
 
 
