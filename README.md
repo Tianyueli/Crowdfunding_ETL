@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
-This project aimed to perform the Extract, Load, and Transform (ETL) process using a dataset with crowdfunding data. The process involved extracting data from an Excel spreadsheet, and finally, using PostGres, four tables called category, subcategory, campaign, and contacts were created in a crowdfunding database. Below is the entity relationship diagram of the final database.
+This project aimed to perform the Extract, Load, and Transform (ETL) process using a dataset with crowdfunding data. The process involved extracting data from an Excel spreadsheet, and finally, using Postgres, four tables called category, subcategory, campaign, and contacts were created in a crowdfunding database. Below is the entity relationship diagram of the final database.
 
 <img src="Starter_Files/Resources/images/crowdfunding_erd.png" width=75% height=75%>
 
